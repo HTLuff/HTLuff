@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**HTLuff/HTLuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTLuff&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HTLuff&theme=dark&background=000000)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend applications.
+
+- :seedling: Exploring Language Learning & AI.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HTLuff-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/htluff/)
+
