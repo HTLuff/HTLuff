@@ -9,6 +9,13 @@
 
 ### Some of my current Apps 🚀
 
-<div style="display:flex; flex-direction:row;">
-  <img src="https://github.com/HTLuff/lighthouse/blob/main/logo.png" style="width:50%;height:auto;filter: drop-shadow(0 0 0.75rem black);" />
-</div>
+<a href="https://github.com/HTLuff/lighthouse/">
+  <img height=250 align="center" src="https://github.com/HTLuff/lighthouse/blob/main/logo.png" />
+</a>
+<a href="https://github.com/HTLuff/sumbank/">
+  <img height=150 align="center" src="https://github.com/HTLuff/sumbank/blob/main/logo.png" />
+</a>
+<a href="https://github.com/HTLuff/cammy/">
+  <img height=250 align="center" src="https://github.com/HTLuff/cammy/blob/main/logo.png" />
+</a>
+  
